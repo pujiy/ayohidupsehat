@@ -28,6 +28,7 @@ for (let button of buttons) {
    });
 }
 
+
 function performCalculation() {
     console.log(bb);
         console.log(tb);
